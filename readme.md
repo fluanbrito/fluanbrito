@@ -2,22 +2,37 @@
 
 <br>
 
+## 🖖 Nice to meet you, I'm Luan.
+My name is Luan Ferreira.
+I am a professional who constantly seeks to improve my knowledge
+and skills, especially in the areas of technology, marketing and design. I'm an entrepreneur, designer, developer and college student.
+
+- 🔝 I am currently a Machine Learning Intern with AWS at Compass UOL.
+- 👨‍🎓 I am currently graduating in Bachelor of Information Systems from IFCE-Campus Crato.
+- ✅ I have several certified courses in the area of ​​technology (encurtador.com.br/emnR7).
+- 🏢 I have contributions in corporate repositories (Private).
+- 	🔥 I have experience in several technologies, and always willing to learn more.
+
+
 
 
 <div align="center">
   
-  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fluanbrito)
+  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fluanbrito&theme=dark)
   
 <br>  
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluanbrito&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluanbrito&theme=dark&hide_border=true"/>
   
 <br>  
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
 ## 💻 Tech Stack(Skills)
+
+- I have knowledge in several technologies, among them stand out:
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -49,6 +64,8 @@
 <br>
 
 ## 💻 Contact and social media
+
+- You can find me at:
 
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5588994840792&text=luan!)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanferreirab/)
