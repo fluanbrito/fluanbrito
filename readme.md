@@ -7,8 +7,14 @@
 <div align="center">
   
   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fluanbrito)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluanbrito&theme=light&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&theme=light&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
+  
+<br>  
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluanbrito&theme=tokyonight&hide_border=true"/>
+  
+<br>  
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
 ## 💻 Tech Stack(Skills)
