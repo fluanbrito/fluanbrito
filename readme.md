@@ -81,8 +81,8 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </a>
-        <a href="https://aws.amazon.com/pt/dynamodb/" target="_blank" rel="noreffer">
-        <img src=https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="noreffer">
+    <a href="https://aws.amazon.com/pt/dynamodb/" target="_blank" rel="noreffer">
+        <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="Dynamodb">
     </a>
 </p>
 
@@ -117,6 +117,8 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 </p>
 
 #### 🖍 UX/UI Design:
+<p>
+                                                                                                                        
 <a target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
     </a>
