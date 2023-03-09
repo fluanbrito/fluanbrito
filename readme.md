@@ -18,15 +18,20 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 
 <div align="center">
   
-  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fluanbrito&theme=dark)
+## My Stats
+
+<br>
+
+###
+[![Luan Ferreira's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&count_private=true&hide=html,jupyter%20notebook&theme=dracula&show_icons=true)](https://github.com/fluanbrito)
+
+<br>  
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fluanbrito&theme=dracula&hide_border=true"/>
+
   
 <br>  
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluanbrito&theme=dark&hide_border=true"/>
-  
-<br>  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 </div>
 
 ## 💻 Tech Stack(Skills)
