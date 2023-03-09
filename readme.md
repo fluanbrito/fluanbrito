@@ -13,14 +13,9 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 - 🏢 I have contributions in corporate repositories (Private).
 - 	🔥 I have experience in several technologies, and always willing to learn more.
 
-
-
-
 <div align="center">
   
 ## My Stats
-
-<br>
 
 ###
 [![Luan Ferreira's languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&count_private=true&hide=html,jupyter%20notebook&theme=dracula&show_icons=true)](https://github.com/fluanbrito)
