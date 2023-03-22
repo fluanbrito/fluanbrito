@@ -18,11 +18,11 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
   
 ## My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&layout=compact&theme=radical&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&layout=compact&theme=dark&title_color=8E2DE2&text_color=fff&hide_border=true&card_width=445)
 
 <br>  
 
-![Luan Ferreira github stats](https://github-readme-stats.vercel.app/api?username=fluanbrito&hide=prs,issues&count_private=true&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
+![Luan Ferreira github stats](https://github-readme-stats.vercel.app/api?username=fluanbrito&hide=prs,issues&count_private=true&show_icons=true&theme=dark&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&hide_border=true)
 
 <br>
 
