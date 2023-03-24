@@ -54,6 +54,15 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
     <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
     </a>
+    <a href="https://nodejs.org/en/docshttps://styled-components.com/docs" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled-component" />
+    </a>
+    <a href="https://www.figma.com/developers" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    </a>
+    <a href="https://nextjs.org/docs/getting-started" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+    </a>
 </p>
 
 #### 🔙 Backend:
@@ -70,6 +79,15 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 <p>
     <a href="https://mariadb.com/" target="_blank">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+    </a>
+    <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noreffer">
+        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
+    </a>
+    <a href="https://firebase.google.com/docs?hl=pt-br" target="_blank" rel="noreffer">
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+    </a>
+    <a href="https://www.postgresql.org/docs/" target="_blank">
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostegreSQL" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -99,8 +117,20 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
     </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </a>
     <a href="https://www.tensorflow.org/?hl=pt-br" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow" />
+    </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matpotlib" />
+    </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikitlearn" />
+    </a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
     </a>
     <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
@@ -113,8 +143,12 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 </p>
 
 #### 🖍 UX/UI Design:
+
 <p>
-                                                                                                                        
+
+<a target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
+    </a> 
 <a target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop"/>
     </a>
@@ -138,15 +172,13 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
     </a>
 </p>
 
-#### 💿 OS:
-<p>
-    <a href="https://www.microsoft.com/pt-br/windows/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
-    </a>
-    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-    </a>
-</p>
+#### 💿 Operating System:
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
 #### 📗 Office:
@@ -156,9 +188,22 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 <br>
+  
+#### 🥅 Other:
+<p>
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+ 
 ## 	📱 Contact and social media
 
 - You can find me at:
