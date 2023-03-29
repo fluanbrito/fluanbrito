@@ -18,7 +18,10 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
   
 ## My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&theme=midnight-purple)](https://github.com/fluanbrito/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&theme=midnight-purple)](https://github.com/fluanbrito/github-readme-stats) -->
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 
 <br>   
