@@ -1,4 +1,7 @@
-<h3 align="center">Hi there 👋</h3>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=50&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Luan+Ferreira;I'm+22+years+old;I'm+a+FrontEnd+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
@@ -19,14 +22,16 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 ## My Stats
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&theme=midnight-purple)](https://github.com/fluanbrito/github-readme-stats) -->
-  
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fluanbrito&layout=compact&langs_count=7&theme=midnight-purple"/>
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fluanbrito&theme=midnight-purple&hide_border=true"/>
- 
 
+<br>  
+  
 </div>
 
 ## 💻 Tech Stack (Skills) 
