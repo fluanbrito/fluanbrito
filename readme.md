@@ -78,18 +78,6 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 
 #### ⚡ Database:
 <p>
-    <a href="https://mariadb.com/" target="_blank">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-    </a>
-    <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noreffer">
-        <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite">
-    </a>
-    <a href="https://firebase.google.com/docs?hl=pt-br" target="_blank" rel="noreffer">
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
-    </a>
-    <a href="https://www.postgresql.org/docs/" target="_blank">
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostegreSQL" />
-    </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     </a>
@@ -115,9 +103,6 @@ and skills, especially in the areas of technology, marketing and design. I'm an 
 #### 🤖 Artificial Intelligence:
 
 <p>
-    <a href="https://keras.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-    </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
     </a>
