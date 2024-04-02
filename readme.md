@@ -1,20 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69239E&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69239E&size=50&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Luan+Ferreira;I'm+22+years+old;I'm+a+Chatbot+Developer;And+Gen+AI+Developer;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=69239E&size=50&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Luan+Ferreira;I'm+23+years+old;I'm+a+Gen+AI+Developer;And+AWS+Architect;Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
 ## 🖖 Nice to meet you, I'm Luan.
 My name is Luan Ferreira.
-I am a professional who constantly seeks to improve my knowledge
-and skills, especially in the areas of technology, marketing and design. I'm an entrepreneur, designer, developer and college student.
+I am a professional who constantly seeks to improve my knowledge and skills, especially in the areas of technology, Artificial Intelligence, Machine Learning, and AWS Cloud Solutions. I am an entrepreneur, developer, designer, and technology enthusiast.
 
-- 🔝 I am currently a Machine Learning Intern with AWS at Compass UOL.
-- 👨‍🎓 I am currently graduating in Bachelor of Information Systems from IFCE-Campus Crato.
-- ✅ I have several certified courses in the area of ​​technology (encurtador.com.br/emnR7).
-- 🏢 I have contributions in corporate repositories (Private).
-- 	🔥 I have experience in several technologies, and always willing to learn more.
+- 🔝 Currently, I am a Generative AI developer and AWS Solutions Architect at Compass UOL.
+- 👨‍🎓 I am currently graduating in Bachelor of Information Systems at IFCE-Campus Crato.
+- ✅ I have several certified courses in the technology field (encurtador.com.br/emnR7).
+- 🏢 I contribute to corporate repositories (private) on Bitbucket.
+- 🔥 I have experience in various technologies and I am always eager to learn more.
 
 
 <div align="center">
