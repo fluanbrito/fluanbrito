@@ -193,7 +193,7 @@ I am a professional who constantly seeks to improve my knowledge and skills, esp
 
 <!--START_SECTION:badges-->
 ![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
-![AWS Certified Cloud AI Practitioner](https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fpt%2Fcertification%2Fcertified-ai-practitioner%2F&psig=AOvVaw22C9A_Aevua8QXwK4FC2qz&ust=1752000938730000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCs56C2q44DFQAAAAAdAAAAABAE)
+![AWS Certified Cloud AI Practitioner](https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)
 
 ## 	📱 Contact and social media
 
